@@ -3,7 +3,7 @@
 
 ## 项目概述
 
-本项目实现了一个基于可变参数模板的高性能线程池，旨在优化任务提交和执行线程之间的同步机制，并提升任务调度的性能。项目支持固定数量（Fixed）和自适应（Cached）两种线程池模式，以适应不同的负载和性能需求。
+本项目实现了一个基于可变参数模板的高性能线程池，旨在优化任务提交和执行线程之间的同步机制，并提升任务调度的性能。项目支持固定数量（Fixed）和自适应（Cached）两种线程池模式，以适应不同的负载和性能需求。  
 This project implements a high-performance thread pool based on variadic templates, designed to optimize synchronization between task submission and execution threads, and to enhance task scheduling performance. The project supports both fixed (Fixed) and adaptive (Cached) thread pool modes to meet various load and performance requirements.
 
 ## 项目地址
